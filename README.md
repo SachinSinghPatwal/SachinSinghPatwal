@@ -23,6 +23,9 @@ Hello World!, I'm Sachin , a Full Stack Developer 👋<br>🔨 Currently working
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SachinSinghPatwal&show_icons=true&locale=en" alt="SachinSinghPatwal" /></p>
+
          
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
