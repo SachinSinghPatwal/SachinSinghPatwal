@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!, I'm Sachin , a Full Stack Developer 👋<br>🔨 Currently working on <a href="https://tweeter-clone-mu.vercel.app/">Check</a> <br>📖 Currently learning mongoose and express<br>💼 Working as a frontend developer since 2022
+Hello World!, I'm Sachin , a Full Stack Developer 👋<br>🔨 Currently working on <a href="https://tweeter-clone-mu.vercel.app/">Check</a> <br>📖 Currently learning betterAuth<br>💼 Working as a frontend developer since 2022
 
 
 ## 🌐 Socials:
