@@ -1,8 +1,5 @@
 # 💫 About Me:
 Hello World!, I'm Sachin, a Full Stack Developer 👋  
-🔨 Currently working on <a href="https://tweeter-clone-mu.vercel.app/">Click here and find out</a>  
-📖 Currently learning betterAuth  
-💼 Working as a frontend developer since 2022
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-singh-patwal)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/godseye28669712)   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinsingh71004@gmai.com)
